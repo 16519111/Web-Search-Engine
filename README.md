@@ -20,3 +20,10 @@ Concept :
   
  Database : Firebase
   
+ How To Run :
+   1. Locally
+    - Clone the repository
+    - Type cd search-app in the terminal
+    - Type npm start
+    - The Web will start in your LocalHost
+   2. Visit this link : https://gallant-bell-d1f670.netlify.app/
